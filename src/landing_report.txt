@@ -1,0 +1,109 @@
+Simulating Bereshit's Landing:
+************************
+time: 0.0, VerticalSpeed: 24.8, HorizontalSpeed: 932.0, DistanceFromEstimateLanding: 181000.0,
+Altitude: 13748.0, Angle: 58.3, Fuel: 121.0, Acceleration rate: 0.0
+************************
+time: 10.0, VerticalSpeed: 24.7891758137481, HorizontalSpeed: 919.9318444652137, DistanceFromEstimateLanding: 171739.93853426754,
+Altitude: 13496.313022789223, Angle: 58.77825444237365, Fuel: 119.41802799999999, Acceleration rate: 1.5970506623440903
+************************
+time: 20.0, VerticalSpeed: 24.044597591081807, HorizontalSpeed: 906.20761222135, DistanceFromEstimateLanding: 162615.9805710001,
+Altitude: 13252.684087071799, Angle: 59.275444785603916, Fuel: 117.81740800000006, Acceleration rate: 1.6060892545907213
+************************
+time: 30.0, VerticalSpeed: 23.507101825773724, HorizontalSpeed: 892.3327736052547, DistanceFromEstimateLanding: 153630.09033737713,
+Altitude: 13015.368451133365, Angle: 59.79312535004435, Fuel: 116.21678800000007, Acceleration rate: 1.6152307379316195
+************************
+time: 40.0, VerticalSpeed: 23.1848642830514, HorizontalSpeed: 878.3036889792983, DistanceFromEstimateLanding: 144783.79376353128,
+Altitude: 12782.250881314507, Angle: 60.33318707060773, Fuel: 114.61616800000013, Acceleration rate: 1.6244768793197961
+************************
+time: 50.0, VerticalSpeed: 23.086784228274855, HorizontalSpeed: 864.1165259324099, DistanceFromEstimateLanding: 136078.6542210552,
+Altitude: 12551.130487566985, Angle: 60.89780572941733, Fuel: 113.01554800000014, Acceleration rate: 1.6338294863998029
+************************
+time: 60.0, VerticalSpeed: 23.222591922876145, HorizontalSpeed: 849.7672394878075, DistanceFromEstimateLanding: 127516.27455721762,
+Altitude: 12319.71291410557, Angle: 61.48950304316747, Fuel: 111.4149280000002, Acceleration rate: 1.6432904086858857
+************************
+time: 70.0, VerticalSpeed: 23.60297934230478, HorizontalSpeed: 835.2515491374269, DistanceFromEstimateLanding: 119098.29934405567,
+Altitude: 12085.601332122389, Angle: 62.11122514179656, Fuel: 109.81430800000021, Acceleration rate: 1.6528615387813055
+************************
+time: 80.0, VerticalSpeed: 24.239760849332075, HorizontalSpeed: 820.5649120219651, DistanceFromEstimateLanding: 110826.41737769391,
+Altitude: 11846.285967015834, Angle: 62.766444751259435, Fuel: 108.21368800000027, Acceleration rate: 1.6625448136405212
+************************
+time: 90.0, VerticalSpeed: 25.146073060136093, HorizontalSpeed: 805.7024913974446, DistanceFromEstimateLanding: 102702.36447099189,
+Altitude: 11599.131812243704, Angle: 63.45929624146966, Fuel: 106.61240200000032, Acceleration rate: 1.679304761643393
+************************
+time: 100.0, VerticalSpeed: 26.168208549759267, HorizontalSpeed: 790.3133822366433, DistanceFromEstimateLanding: 94729.30636290881,
+Altitude: 11342.040469562546, Angle: 64.1946575951757, Fuel: 104.96849200000031, Acceleration rate: 1.7595386649787246
+************************
+time: 110.0, VerticalSpeed: 27.196994289291037, HorizontalSpeed: 774.0953569091914, DistanceFromEstimateLanding: 86914.67706846204,
+Altitude: 11074.720364890863, Angle: 64.97801552154893, Fuel: 103.25798200000031, Acceleration rate: 1.8412126875687878
+************************
+time: 120.0, VerticalSpeed: 28.270055476742762, HorizontalSpeed: 757.0216636292494, DistanceFromEstimateLanding: 79266.9113602481,
+Altitude: 10796.901900674424, Angle: 65.815932529672, Fuel: 101.48087200000032, Acceleration rate: 1.924415798219091
+************************
+time: 130.0, VerticalSpeed: 29.43018279434917, HorizontalSpeed: 739.0636213999127, DistanceFromEstimateLanding: 71794.7220017799,
+Altitude: 10507.911684123677, Angle: 66.71649732693156, Fuel: 99.63716200000027, Acceleration rate: 2.009241619663377
+************************
+time: 140.0, VerticalSpeed: 30.726544754378274, HorizontalSpeed: 720.1904428874558, DistanceFromEstimateLanding: 64507.11999653764,
+Altitude: 10206.614484372967, Angle: 67.68985087819472, Fuel: 97.72685200000029, Acceleration rate: 2.0957888232908886
+************************
+time: 150.0, VerticalSpeed: 32.216311882806224, HorizontalSpeed: 700.3690357123974, DistanceFromEstimateLanding: 57413.43672605068,
+Altitude: 9891.34092854168, Angle: 68.74896374152235, Fuel: 95.74994200000032, Acceleration rate: 2.184161559660095
+************************
+time: 160.0, VerticalSpeed: 33.96689125110433, HorizontalSpeed: 679.563782270021, DistanceFromEstimateLanding: 50523.34819459253,
+Altitude: 9559.795804996715, Angle: 69.91082490367742, Fuel: 93.70643200000029, Acceleration rate: 2.274469928911545
+************************
+time: 170.0, VerticalSpeed: 36.05910013683654, HorizontalSpeed: 657.7363031677781, DistanceFromEstimateLanding: 43846.9015735252,
+Altitude: 9208.93920426678, Angle: 71.19833614273024, Fuel: 91.59632200000027, Acceleration rate: 2.3668304957231596
+************************
+time: 180.0, VerticalSpeed: 38.591851637723465, HorizontalSpeed: 634.8452223633685, DistanceFromEstimateLanding: 37394.54412606389,
+Altitude: 8834.828229267228, Angle: 72.64348508782987, Fuel: 89.41961200000031, Acceleration rate: 2.4613668540615468
+************************
+time: 190.0, VerticalSpeed: 41.689414062421726, HorizontalSpeed: 610.8459863323767, DistanceFromEstimateLanding: 31177.154251430013,
+Altitude: 8432.398880821669, Angle: 74.2930005987658, Fuel: 87.1763020000003, Acceleration rate: 2.558210247686156
+************************
+time: 200.0, VerticalSpeed: 45.51337175791098, HorizontalSpeed: 585.6908845363126, DistanceFromEstimateLanding: 25206.07342285664,
+Altitude: 7995.151960384005, Angle: 76.21926785901361, Fuel: 84.8663920000003, Acceleration rate: 2.6575002531752974
+************************
+time: 210.0, VerticalSpeed: 50.284005599411444, HorizontalSpeed: 559.3297066729095, DistanceFromEstimateLanding: 19493.13500637863,
+Altitude: 7514.67330034476, Angle: 78.5437591532876, Fuel: 82.4898820000003, Acceleration rate: 2.75938553318312
+************************
+time: 220.0, VerticalSpeed: 56.32311423815369, HorizontalSpeed: 531.71248027202, DistanceFromEstimateLanding: 14050.677123629044,
+Altitude: 6979.837878802992, Angle: 81.49551461088492, Fuel: 80.04677200000032, Acceleration rate: 2.8640246687273097
+************************
+time: 230.0, VerticalSpeed: 64.15590585332936, HorizontalSpeed: 502.8001481928927, DistanceFromEstimateLanding: 8891.493606215583,
+Altitude: 6375.314534584624, Angle: 85.5957970604758, Fuel: 77.53706200000033, Acceleration rate: 2.971587080575734
+************************
+time: 240.0, VerticalSpeed: 74.84010143530496, HorizontalSpeed: 472.61814511139653, DistanceFromEstimateLanding: 4028.506156138081,
+Altitude: 5678.083056736434, Angle: 92.56838235813899, Fuel: 74.96075200000033, Acceleration rate: 3.082254051279166
+************************
+time: 250.0, VerticalSpeed: 92.88642021148081, HorizontalSpeed: 442.2703650310764, DistanceFromEstimateLanding: -528.507567861712,
+Altitude: 4842.854724226782, Angle: 74.91899646868504, Fuel: 72.31784200000035, Acceleration rate: 3.1962198611261368
+************************
+time: 260.0, VerticalSpeed: 88.5204477500479, HorizontalSpeed: 414.55402349555817, DistanceFromEstimateLanding: -4794.548494471924,
+Altitude: 3928.437670496321, Angle: 50.82311918040807, Fuel: 69.60833200000036, Acceleration rate: 3.3136930533225635
+************************
+time: 270.0, VerticalSpeed: 78.32008180468021, HorizontalSpeed: 389.57918718689785, DistanceFromEstimateLanding: -8801.56677250771,
+Altitude: 3096.749538354106, Angle: 45.069808905699745, Fuel: 66.8322220000004, Acceleration rate: 3.4348978460810886
+************************
+time: 280.0, VerticalSpeed: 65.58560358533724, HorizontalSpeed: 365.5767922006238, DistanceFromEstimateLanding: -12564.822913181275,
+Altitude: 2381.8604993726804, Angle: 41.74334003906414, Fuel: 63.98951200000042, Acceleration rate: 3.5600757121138016
+************************
+time: 290.0, VerticalSpeed: 53.50382702695243, HorizontalSpeed: 345.57438549191784, DistanceFromEstimateLanding: -16096.456094466006,
+Altitude: 1801.475781567882, Angle: 22.94301867861113, Fuel: 61.57370800000044, Acceleration rate: 1.6127202190644259
+************************
+time: 300.0, VerticalSpeed: 50.38281099030579, HorizontalSpeed: 344.59210103286864, DistanceFromEstimateLanding: -19543.046296869135,
+Altitude: 1283.0588541806726, Angle: -0.16367480045461286, Fuel: 60.28610800000044, Acceleration rate: 1.6219375586176812
+************************
+time: 310.0, VerticalSpeed: 46.88499695313226, HorizontalSpeed: 344.59210103286864, DistanceFromEstimateLanding: -22988.96730719781,
+Altitude: 797.8010651616112, Angle: -0.13876749218874596, Fuel: 58.98074800000043, Acceleration rate: 1.6876450470644884
+************************
+time: 320.0, VerticalSpeed: 42.38600747749987, HorizontalSpeed: 344.59210103286864, DistanceFromEstimateLanding: -26434.888317526485,
+Altitude: 351.57456631782776, Angle: -0.12043953558312008, Fuel: 57.58880800000043, Acceleration rate: 1.9529283790405092
+************************
+time: 327.0, VerticalSpeed: 37.73973146985296, HorizontalSpeed: 344.59210103286864, DistanceFromEstimateLanding: -28847.033024756558,
+Altitude: 73.41983124971878, Angle: -0.11024680896452856, Fuel: 56.51654800000043, Acceleration rate: 1.9623816095220077
+************************
+time: 328.0, VerticalSpeed: 37.07056845569842, HorizontalSpeed: 344.59210103286864, DistanceFromEstimateLanding: -29191.625125789426,
+Altitude: 36.34926279402036, Angle: -0.1089298562123806, Fuel: 56.29454800000042, Acceleration rate: 2.8468844157877706
+************************
+time: 329.0, VerticalSpeed: 35.516902635278115, HorizontalSpeed: 344.59210103286864, DistanceFromEstimateLanding: -29536.217226822293,
+Altitude: 0.8323601587422473, Angle: -0.10764399535825944, Fuel: 56.09474800000041, Acceleration rate: 2.564511392192812
